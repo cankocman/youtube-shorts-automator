@@ -1,2 +1,4 @@
 moviepy==1.0.3
 openai==1.6.1
+elevenlabs~=0.2.27
+pydub~=0.25.1
