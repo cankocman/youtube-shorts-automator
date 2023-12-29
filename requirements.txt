@@ -1,0 +1,2 @@
+moviepy==1.0.3
+openai==1.6.1
